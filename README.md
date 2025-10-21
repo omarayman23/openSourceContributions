@@ -8,5 +8,5 @@ Contribution #1: For: https://github.com/TEAMMATES/teammates
 - Changed axe.yml, e2e.yml, and e2e-sql.yml to be triggered manually via workflow_dispatch: instead of on push and pull_request.
 - The schedule: for the E2E tests is kept, so they will still run daily.
 - This resolves the issue where developers had to run a full test suite for minor changes or when merging master.
-pull request: https://github.com/TEAMMATES/teammates/pull/13380
+- pull request: https://github.com/TEAMMATES/teammates/pull/13380
 
