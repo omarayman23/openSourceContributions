@@ -1,6 +1,4 @@
-# openSourceContributions
-
-## You can fine all my open-source contributions here!
+# My open-source contributions
 
 ## Contributions of TEAMMATES
 
