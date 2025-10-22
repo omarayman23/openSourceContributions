@@ -14,11 +14,11 @@ Outline of Solution:
 
 This PR updates the GitHub Actions workflow files to prevent expensive E2E and accessibility tests from running on every commit.
 
-Changed axe.yml, e2e.yml, and e2e-sql.yml to be triggered manually via workflow_dispatch: instead of on push and pull_request.
+- Changed axe.yml, e2e.yml, and e2e-sql.yml to be triggered manually via workflow_dispatch: instead of on push and pull_request.
 
-The schedule: for the E2E tests is kept, so they will still run daily.
+- The schedule: for the E2E tests is kept, so they will still run daily.
 
-This resolves the issue where developers had to run a full test suite for minor changes or when merging master.
+- This resolves the issue where developers had to run a full test suite for minor changes or when merging master.
 
 Pull Request: https://github.com/TEAMMATES/teammates/pull/13380
 
@@ -28,8 +28,8 @@ Issue: #13371
 
 Outline of solution:
 
-Problem: The form only checked if the email field was empty, but not if the format was valid (e.g., test@test would be accepted). The user would only see an error after submitting.
+- Problem: The form only checked if the email field was empty, but not if the format was valid (e.g., test@test would be accepted). The user would only see an error after submitting.
 
-Solution: By adding Angular's built-in Validators.email, the form now provides immediate feedback to the user if the email format is invalid.
+- Solution: By adding Angular's built-in Validators.email, the form now provides immediate feedback to the user if the email format is invalid.
 
 Pull Request: https://github.com/TEAMMATES/teammates/pull/13383
