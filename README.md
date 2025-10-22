@@ -2,7 +2,7 @@
 
 ## Contributions to TEAMMATES
 
-## repristory: TEAMMATES/teammates
+## repristory: [TEAMMATES/teammates](https://github.com/TEAMMATES/teammates)
 
 ### Contribution #1
 
