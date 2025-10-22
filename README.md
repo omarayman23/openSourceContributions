@@ -1,8 +1,6 @@
 # My open-source contributions
 
-## Contributions to TEAMMATES
-
-## repristory: [TEAMMATES/teammates](https://github.com/TEAMMATES/teammates)
+## Contributions to [TEAMMATES/teammates](https://github.com/TEAMMATES/teammates)
 
 ### Contribution #1
 
