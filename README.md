@@ -1,12 +1,12 @@
-#openSourceContributions
+# openSourceContributions
 
-You can fine all my open-source contributions here!
+## You can fine all my open-source contributions here!
 
-Contributions of TEAMMATES
+## Contributions of TEAMMATES
 
-For: https://github.com/TEAMMATES/teammates
+## For: https://github.com/TEAMMATES/teammates
 
-Contribution #1
+### Contribution #1
 
 Issue: #13356
 
@@ -22,7 +22,7 @@ This PR updates the GitHub Actions workflow files to prevent expensive E2E and a
 
 Pull Request: https://github.com/TEAMMATES/teammates/pull/13380
 
-Contribution #2
+### Contribution #2
 
 Issue: #13371
 
