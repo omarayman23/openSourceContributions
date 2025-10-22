@@ -1,6 +1,6 @@
 # My open-source contributions
 
-## Contributions of TEAMMATES
+## Contributions to TEAMMATES
 
 ## For: https://github.com/TEAMMATES/teammates
 
